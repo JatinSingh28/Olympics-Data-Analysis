@@ -1,6 +1,6 @@
 # Olympic Analysis on Streamlit
 
-![Olympic Rings](olympic_rings.png)
+![Olympic Rings](./data/Images/Olympic_logo.webp)
 
 This is a data analysis and visualization project that leverages the Streamlit framework to provide interactive insights into Olympic Games data. The application allows users to explore historical Olympic data, analyze trends, and visualize medal distributions across different sports, countries, and years.
 
