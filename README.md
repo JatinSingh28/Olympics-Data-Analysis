@@ -1,4 +1,4 @@
-# Olympic Analysis on Streamlit
+# Analysis of historical Olympic data
 
 ![Olympic Rings](./data/Images/Olympic_logo.webp)
 
